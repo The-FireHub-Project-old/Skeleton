@@ -20,8 +20,8 @@ The FireHub official repository is [here](https://github.com/The-FireHub-Project
 
 ## Installation
 
-![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/firehub/skeleton/php?version=v0.1.0-alpha.1)
-![Packagist Dependency Version (specify version)](https://img.shields.io/packagist/dependency-v/firehub/skeleton/firehub/core?version=v0.1.0-alpha.1)
+![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/firehub/skeleton/php?version=v0.1.0)
+![Packagist Dependency Version (specify version)](https://img.shields.io/packagist/dependency-v/firehub/skeleton/firehub/core?version=v0.1.0)
 ![Packagist Stars](https://img.shields.io/packagist/stars/firehub/skeleton)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/firehub/skeleton)
 
