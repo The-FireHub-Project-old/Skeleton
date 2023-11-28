@@ -1,6 +1,6 @@
 # Release Notes for v0.x.x.alpha
 
-## [v0.1.1](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.0-alpha.1...v0.1.1-alpha.1) - (2023-11-28)
+## [v0.1.1](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.0...v0.1.1) - (2023-11-28)
 
 ### Added
 - Created default favicon.ico ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [757f885](https://github.com/The-FireHub-Project/Skeleton/commit/757f885))
