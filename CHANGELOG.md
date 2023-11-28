@@ -1,0 +1,15 @@
+# Release Notes for v0.x.x.alpha
+
+## [v0.1.1](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.0-alpha.1...v0.1.1-alpha.1) - (2023-11-28)
+
+### Added
+- Created default favicon.ico ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [757f885](https://github.com/The-FireHub-Project/Skeleton/commit/757f885))
+- Created robots.txt ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [35601bc](https://github.com/The-FireHub-Project/Skeleton/commit/35601bc))
+- Created .htaccess ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [6b052b5](https://github.com/The-FireHub-Project/Skeleton/commit/6b052b5))
+- Created web.config ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [194f3d3](https://github.com/The-FireHub-Project/Skeleton/commit/194f3d3))
+- Created torch ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [cde5d06](https://github.com/The-FireHub-Project/Skeleton/commit/cde5d06))
+- Created index.php landing page ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [73c2ec7](https://github.com/The-FireHub-Project/Skeleton/commit/73c2ec7))
+
+## v0.1.0 - (2023-11-28)
+
+Initial release.
