@@ -13,7 +13,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/The-FireHub-Project/Skeleton?style=flat&labelColor=30363d)](https://github.com/The-FireHub-Project/Skeleton/graphs/contributors)
 [![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fthe-firehub-project.github.io%2F?style=flat&labelColor=30363d)](https://the-firehub-project.github.io/)
 
-This repository contains only skeleton files for FireHub project.
+This repository contains only skeleton files for the FireHub project.
 
 The FireHub official repository is [here](https://github.com/The-FireHub-Project/Core).
 
@@ -24,7 +24,7 @@ The FireHub official repository is [here](https://github.com/The-FireHub-Project
 ![Packagist Stars](https://img.shields.io/packagist/stars/firehub/skeleton)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/firehub/skeleton)
 
-Anything that has been added, changed, deprecated, fixed or removed + any security updates are in the [Changelog](./CHANGELOG.md) of this version.
+Anything that has been added, changed, deprecated, fixed, or removed + any security updates are in the [Changelog](./CHANGELOG.md) of this version.
 
 ## Documentation
 
@@ -45,7 +45,7 @@ Read our [Support](https://github.com/The-FireHub-Project/.github/blob/master/.g
 ![GitHub forks](https://img.shields.io/github/forks/The-FireHub-Project/Skeleton?style=social)
 
 - Be sure to review the [Code of Conduct](https://github.com/The-FireHub-Project/.github/blob/master/.github/CODE_OF_CONDUCT.md).
-- Read [Contributing](https://github.com/The-FireHub-Project/.github/blob/master/.github/CONTRIBUTING.md) file to see how you can contribute to this project.
+- Read a [Contributing](https://github.com/The-FireHub-Project/.github/blob/master/.github/CONTRIBUTING.md) file to see how you can contribute to this project.
 - Read our [Security policy](.github/SECURITY.md) file to see how you can report a vulnerability.
 
 ## Authors and Contributors
