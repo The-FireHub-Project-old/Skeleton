@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: my-app
+    build:
+      context: .
+      dockerfile: test.Dockerfile
+    image: skeleton
+    volumes:
+      - ./:/var/www/html
+    ports:
+      - "223:80"

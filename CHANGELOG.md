@@ -1,5 +1,13 @@
 # Release Notes for v0.x.x.alpha
 
+## [v0.1.3](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.2...v0.1.3) - (2024-09-24)
+
+### Added
+- Add FireHub boot to the main index file and torch file ([6040968](https://github.com/The-FireHub-Project/Skeleton/commit/6040968))
+- Add .dockerignore file ([417f452](https://github.com/The-FireHub-Project/Skeleton/commit/417f452))
+- Add docker files
+
+
 ## [v0.1.2](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.1...v0.1.2) - (2023-12-01)
 
 ### Added
